@@ -17,7 +17,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from Extract import Extract
+        from RAHIM import RAHIM
  
         main_menu()
  
@@ -25,7 +25,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from Extract import Extract
+        from RAHIM import RAHIM
  
  
         main_menu()
