@@ -9,7 +9,7 @@
  pip install bs4
  pip install futures
  pip install mechanize
- rm -rf FLASH
+ rm -rf RAHIM
  git clone https://github.com/SHIHAB-X/RAHIM
  cd RAHIM
  python RAHIM.py
